@@ -14,10 +14,13 @@ A fast-paced, physics-based survival game developed using C# and the .NET Framew
 * **Version Control:** Git/GitHub
 
 ## How to Run
-* **Prerequisites**: Ensure you have [Microsoft Visual Studio](https://visualstudio.microsoft.com/) installed with the **.NET desktop development** workload.
-* 2. **Download**: Click the green **Code** button at the top of this page and select **Download ZIP**, then extract the files to your computer.
-* 3. **Open Project**: Navigate to the extracted folder and double-click the `SpaceJumper.sln` file to open it in Visual Studio.
-* 4. **Build & Run**: Press **F5** or click the **Start** button in the top toolbar of Visual Studio to compile and launch the game.
+1. **Prerequisites**: Ensure you have [Microsoft Visual Studio](https://visualstudio.microsoft.com/) installed with the **.NET desktop development** workload.
+
+2. **Download**: Click the green **Code** button at the top of this page and select **Download ZIP**, then extract the files to your computer.
+
+3. **Open Project**: Navigate to the extracted folder and double-click the `SpaceJumper.sln` file to open it in Visual Studio.
+
+4. **Build & Run**: Press **F5** or click the **Start** button in the top toolbar of Visual Studio to compile and launch the game.
 
 ## Skills & Concepts Demonstrated
 * **C# Programming:** Implementation of event-driven logic and control flow.
